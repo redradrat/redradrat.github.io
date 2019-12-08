@@ -1,0 +1,38 @@
+baseURL = "https://redradrat.xyz/"
+languageCode = "en-us"
+title = "redradrat"
+theme = "hugo-coder"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "/projects/"
+[[menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "/contact/"
+
+[params]
+    author = "Ralph Kühnert"
+    description = "Love sheep, be unique. Personal blog and projects."
+    keywords = "blog,developer,personal"
+    info = "DevOps Dude, Cloud Architect and Weathermaker"
+    avatarurl = "images/redradrat-round.png"
+#    avatarurl = "images/redradrat-cropped.jpg"
+    footercontent = "Love sheep, be unique."
+
+    hideCredits = true
+    hideCopyright = false
+
+[[params.social]]
+    name = "GitHub"
+    weight = 1
+    url = "https://github.com/redradrat/"
