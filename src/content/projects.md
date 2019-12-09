@@ -1,5 +1,5 @@
 +++
-slug = "projects and stuff I'm working on"
+slug = "projects"
 title = "Projects"
 
 +++
