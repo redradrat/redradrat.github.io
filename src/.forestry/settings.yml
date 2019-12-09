@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: src/config.toml
+  path: src
   label: Config
   match: "**/*"
 - type: directory
