@@ -17,6 +17,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: text
-  name: math
-  label: math
+- name: math
+  type: boolean
+  label: Math
