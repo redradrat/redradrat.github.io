@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: src
+  path: src/config.toml
   label: Config
 - type: directory
   path: src/content/posts
