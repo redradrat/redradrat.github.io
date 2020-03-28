@@ -5,3 +5,7 @@ body{
 .navigation .navigation-title {
     text-transform: none;
 }
+
+blockquote {
+  line-height: 2.5rem;
+}
