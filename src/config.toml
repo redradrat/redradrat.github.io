@@ -1,4 +1,4 @@
-baseURL = "https://redradrat.xyz/"
+baseURL = "https://www.redradrat.xyz/"
 languageCode = "en-us"
 theme = "hugo-coder"
 title = "at redradrat's"
