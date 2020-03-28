@@ -3,6 +3,8 @@ title = "About Me"
 slug = "about"
 +++
 
+![me](images/AKJns42398lif.jpg)
+
 Hey there! My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer or DevOps Engineer. I design and build elastic, scalable cloud infrastructure to serve highly-available applications on a global scale, using modern, cloud-native and predominantly open-source tech. My focus is to design clear interfaces and normalized componentry, easily maintained and operated through a unified and homogenous toolchain.
 
 **What I work with?**
