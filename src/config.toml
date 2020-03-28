@@ -1,29 +1,33 @@
 baseURL = "https://www.redradrat.xyz/"
 languageCode = "en-us"
 theme = "hugo-coder"
-title = "Ralph Kühnert"
+title = "at redradrat's"
 [[menu.main]]
-name = "Projects"
+name = "projects"
 url = "/projects/"
 weight = 2
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about/"
 weight = 1
 [[menu.main]]
-name = "Contact me"
+name = "contact me"
 url = "/contact/"
 weight = 3
 [params]
 author = "Ralph Kühnert"
 avatarurl = "images/redradrat-round.png"
 description = "My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer or DevOps Engineer. I work on delivering awsome cloud infrastructure, focussed on kubernetes."
-footercontent = "Love sheep, be unique."
-hideCopyright = false
+footercontent = "Copyright © 2020 with ❤️ from Austria"
+hideCopyright = true
 hideCredits = true
 info = "DevOps Dude, Cloud Architect and Weathermaker"
 keywords = "redradrat,ralph,kuehnert,kühnert,devops,cloud,kubernetes,blog,developer,personal"
+custom_css = ["css/custom.css"]
+favicon_32 = "images/favicon_32.png"
+favicon_16 = "images/favicon_16.png"
 [[params.social]]
 name = "GitHub"
+icon = "fab fa-github"
 url = "https://github.com/redradrat/"
 weight = 1
