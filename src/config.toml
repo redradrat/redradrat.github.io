@@ -31,3 +31,18 @@ name = "GitHub"
 icon = "fab fa-github"
 url = "https://github.com/redradrat/"
 weight = 1
+[[params.social]]
+name = "Keybase"
+icon = "fab fa-keybase"
+url = "https://keybase.io/redradrat/"
+weight = 2
+[[params.social]]
+name = "LinkedIn"
+icon = "fab fa-linkedin"
+url = "https://linkedin.com/in/ralphkuehnert/"
+weight = 3
+[[params.social]]
+name = "DevTo"
+icon = "fab fa-dev"
+url = "https://dev.to/redradrat/"
+weight = 4
