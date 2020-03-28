@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>at redradrat&#39;s</title>
-    <link>https://www.redradrat.xyz/</link>
+    <link>https://redradrat.xyz/</link>
     <description>Recent content on at redradrat&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.redradrat.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redradrat.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://www.redradrat.xyz/about/</link>
+      <link>https://redradrat.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.redradrat.xyz/about/</guid>
+      <guid>https://redradrat.xyz/about/</guid>
       <description>attr. L. Campostrini, 2019
   Hey there! My name is Ralph Kühnert and I&amp;rsquo;m a Cloud Architect, Software Developer or DevOps Engineer. I design and build elastic, scalable cloud infrastructure to serve highly-available applications on a global scale, using modern, cloud-native and predominantly open-source tech. My focus is to design clear interfaces and normalized componentry, easily maintained and operated through a unified and homogenous toolchain.
 What I work with?</description>
@@ -23,20 +23,20 @@ What I work with?</description>
     
     <item>
       <title>Contact</title>
-      <link>https://www.redradrat.xyz/contact/</link>
+      <link>https://redradrat.xyz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.redradrat.xyz/contact/</guid>
+      <guid>https://redradrat.xyz/contact/</guid>
       <description>Regarding specific projects, please find the detail on my GitHub.
 For other requests, I&amp;rsquo;m available on Keybase: https://keybase.io/redradrat</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.redradrat.xyz/projects/</link>
+      <link>https://redradrat.xyz/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.redradrat.xyz/projects/</guid>
+      <guid>https://redradrat.xyz/projects/</guid>
       <description>aws-iam-operator A kubernetes-native controller to control AWS Identity and Access Management. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces. Currently under development&amp;hellip; can be found on GitHub.
 hourglass A CLI as an abstraction for various different time-tracking services. Developed, for making consulting work easier and reduce interactions with multiple different time-tracking services for multiple different clients. Only first development efforts open sourced on GitHub.</description>
     </item>
