@@ -3,17 +3,17 @@ languageCode = "en-us"
 theme = "hugo-coder"
 title = "Ralph Kühnert"
 [[menu.main]]
-name = "About"
-url = "/about/"
-weight = 2
-[[menu.main]]
 name = "Projects"
 url = "/projects/"
-weight = 3
+weight = 2
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
 [[menu.main]]
 name = "Contact me"
 url = "/contact/"
-weight = 5
+weight = 3
 [params]
 author = "Ralph Kühnert"
 avatarurl = "images/redradrat-round.png"
