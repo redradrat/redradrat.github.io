@@ -1,11 +1,7 @@
 baseURL = "https://www.redradrat.xyz/"
 languageCode = "en-us"
 theme = "hugo-coder"
-title = "redradrat"
-[[menu.main]]
-name = "Blog"
-url = "/posts/"
-weight = 1
+title = "Ralph Kühnert"
 [[menu.main]]
 name = "About"
 url = "/about/"
