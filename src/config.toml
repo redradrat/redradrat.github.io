@@ -17,12 +17,12 @@ weight = 3
 [params]
 author = "Ralph Kühnert"
 avatarurl = "images/redradrat-round.png"
-description = "Love sheep, be unique. Personal blog and projects."
+description = "My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer or DevOps Engineer. I work on delivering awsome cloud infrastructure, focussed on kubernetes."
 footercontent = "Love sheep, be unique."
 hideCopyright = false
 hideCredits = true
 info = "DevOps Dude, Cloud Architect and Weathermaker"
-keywords = "blog,developer,personal"
+keywords = "redradrat,ralph,kuehnert,kühnert,devops,cloud,kubernetes,blog,developer,personal"
 [[params.social]]
 name = "GitHub"
 url = "https://github.com/redradrat/"
