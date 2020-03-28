@@ -37,7 +37,7 @@ For other requests, I&amp;rsquo;m available on Keybase: https://keybase.io/redra
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.redradrat.xyz/projects/</guid>
-      <description>aws-iam-operator A kubernetes-native controller to control AWS Identity and Access Managment. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces. Currently under development&amp;hellip; can be found on GitHub.
+      <description>aws-iam-operator A kubernetes-native controller to control AWS Identity and Access Management. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces. Currently under development&amp;hellip; can be found on GitHub.
 hourglass A CLI as an abstraction for various different time-tracking services. Developed, for making consulting work easier and reduce interactions with multiple different time-tracking services for multiple different clients. Only first development efforts open sourced on GitHub.</description>
     </item>
     

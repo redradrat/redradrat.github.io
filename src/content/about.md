@@ -14,7 +14,7 @@ Hey there! My name is Ralph Kühnert and I'm a Cloud Architect, Software Develop
     * Operators, Operators, Operators 
 * Cloud-native tooling ([CNCF Landscape](https://l.cncf.io))
     * Observability (Prometheus, FluentD, Grafana, Kibana, Jaeger, ...)
-    * Data Storage (PostrgeSQL, Elasticsearch, Redis, MongoDB, S3, ...)
+    * Data Storage (PostgreSQL, Elasticsearch, Redis, MongoDB, S3, ...)
     * et al.
 * Development
     * Golang
@@ -66,7 +66,7 @@ Working in a start-up really is the greatest learning experience, from business 
 
 Technical Test Consultant
 
-> Working as a Technical Test Consultant with different clients in Switzerland and Austria, I had a chance to understand the fundamentals of Test Automation in high-risk business areas (banking) and an understanding of the infrastructural and operational dependencies for efficient test automation. Tricentis was a great employer, that grew a lot since then - awsome to see!
+> Working as a Technical Test Consultant with different clients in Switzerland and Austria, I had a chance to understand the fundamentals of Test Automation in high-risk business areas (banking) and an understanding of the infrastructural and operational dependencies for efficient test automation. Tricentis was a great employer, that grew a lot since then - awesome to see!
 
 * Test Automation
 * Test Infrastructure
