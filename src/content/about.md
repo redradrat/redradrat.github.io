@@ -5,13 +5,23 @@ slug = "about"
 
 {{< figure src="/images/AKJns42398lif.jpg" attr="attr. L. Campostrini, 2019" width=220 height=360 >}}
 
-Hey there! My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer or DevOps Engineer. I design and build elastic, scalable cloud infrastructure to serve highly-available applications on a global scale, using modern, cloud-native and predominantly open-source tech. My focus is to design clear interfaces and normalized componentry, easily maintained and operated through a unified and homogenous toolchain.
+Hey there! My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer or DevOps Engineer. I design and build elastic, scalable cloud infrastructure to serve highly-available applications on a global scale, using modern, cloud-native and predominantly open-source tech.
 
-**What I work with?**
+I'm striving to design generic infrastructure and application platforms, maintained and operated through normalized interfaces. I believe that all componentry should be accessible and exposable via unified and homogenous APIs, enabling globally-distributed teams with different technical backgrounds to interconnect flawlessly through normalized abstraction.
+
+**My:** [**Technical Expertise**](#technical-expertise) | [**Career**](#career)
+
+### Technical Expertise
+
+I believe right now a couple of technologies and paradigms converge to enable building platforms that at least approxmiate such a vision. _**Kubernetes**_ uniquely ties them together, to offer a unified API and accompanying reconciliation logic to provide services that especially suit the infrastructure automation disciplines.
+
+* **Kubernetes**
+    * Unified API interfaces for all Objects alive in the platform (API Server/OpenAPI)
+    * Payload buffer and reconciliation logic to interact with asynchronously (API Server/Resources/etcd/Controllers)
+    * Technical Independence from traditional VMs and Operating Systems (Containers)
+    * Technical and Operational Independence from other services (Microservices)
 * GitOps
-    * Tracable, reproducible, pull-based workflows
-* Kubernetes - The swiss-army knife of infrastructure automation and normalization
-    * Operators, Operators, Operators 
+    * Traceable, reproducible, pull-based workflows
 * Cloud-native tooling ([CNCF Landscape](https://l.cncf.io))
     * Observability (Prometheus, FluentD, Grafana, Kibana, Jaeger, ...)
     * Data Storage (PostgreSQL, Elasticsearch, Redis, MongoDB, S3, ...)
