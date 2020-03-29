@@ -13,7 +13,7 @@ I'm striving to design generic infrastructure and application platforms, maintai
 
 ### Technical Expertise
 
-I believe right now a couple of technologies and paradigms converge to enable building platforms that at least approxmiate such a vision. _**Kubernetes**_ uniquely ties them together, to offer a unified API and accompanying reconciliation logic to provide services that especially suit the infrastructure automation disciplines.
+I believe right now a couple of technologies and paradigms converge to enable building platforms that at least approximate such a vision. _**Kubernetes**_ uniquely ties them together, to offer a unified API and accompanying reconciliation logic to provide services that especially suit the infrastructure automation disciplines.
 
 * **Kubernetes**
     * Unified API interfaces for all Objects alive in the platform (API Server/OpenAPI)
