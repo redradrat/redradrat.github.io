@@ -5,7 +5,7 @@ slug = "about"
 
 {{< figure src="/images/AKJns42398lif.jpg" attr="attr. L. Campostrini, 2019" width=220 height=360 >}}
 
-Hey there! My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer or DevOps Engineer. I design and build elastic, scalable cloud infrastructure to serve highly-available applications on a global scale, using modern, cloud-native and predominantly open-source tech.
+Hey there! My name is Ralph Kühnert and I'm a Cloud Architect, Software Developer and DevOps Engineer. I design and build elastic, scalable cloud infrastructure to serve highly-available applications on a global scale, using modern, cloud-native and predominantly open-source tech.
 
 I'm striving to design generic infrastructure and application platforms, maintained and operated through normalized interfaces. I believe that all componentry should be accessible and exposable via unified and homogenous APIs, enabling globally-distributed teams with different technical backgrounds to interconnect flawlessly through normalized abstraction.
 
