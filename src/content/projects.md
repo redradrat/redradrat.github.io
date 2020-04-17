@@ -9,7 +9,7 @@ A kubernetes-native controller to control AWS Identity and Access Management. Pr
 
 ### [active] [**cloud-objects**](https://github.com/redradrat/cloud-objects)
 
-Here I'm trying to collect all cloud service abstractions that I'm working on as a golang library in a per-instance C(R)UD fashion. This is a spin-off from the aws-iam-operator.  Currently under development... can be found on [GitHub](https://github.com/redradrat/cloud-objects).
+An abstraction layer of all cloud services that I'm working on. A single golang library, that works in a per-instance C(R)UD fashion. This is a spin-off from the aws-iam-operator.  Currently under development... can be found on [GitHub](https://github.com/redradrat/cloud-objects).
 
 ### [**hourglass**](https://github.com/redradrat/hourglass)
 

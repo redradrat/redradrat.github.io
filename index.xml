@@ -38,7 +38,7 @@ For other requests, I&amp;rsquo;m available on Keybase: https://keybase.io/redra
       
       <guid>https://redradrat.xyz/projects/</guid>
       <description>[active] aws-iam-operator A kubernetes-native controller to control AWS Identity and Access Management. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces. Currently under development&amp;hellip; can be found on GitHub.
-[active] cloud-objects Here I&amp;rsquo;m trying to collect all cloud service abstractions that I&amp;rsquo;m working on as a golang library in a per-instance C(R)UD fashion. This is a spin-off from the aws-iam-operator. Currently under development&amp;hellip; can be found on GitHub.</description>
+[active] cloud-objects An abstraction layer of all cloud services that I&amp;rsquo;m working on. A single golang library, that works in a per-instance C(R)UD fashion. This is a spin-off from the aws-iam-operator. Currently under development&amp;hellip; can be found on GitHub.</description>
     </item>
     
   </channel>
