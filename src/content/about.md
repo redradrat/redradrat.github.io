@@ -15,7 +15,7 @@ I'm striving to design generic infrastructure and application platforms, maintai
 
 I believe right now a couple of technologies and paradigms converge to enable building platforms that at least approximate such a vision. _**Kubernetes**_ uniquely ties them together, to offer a unified API and accompanying reconciliation logic to provide services that especially suit the infrastructure automation disciplines.
 
-* **Kubernetes**
+* Kubernetes
     * Unified API interfaces for all Objects alive in the platform (API Server/OpenAPI)
     * Payload buffer and reconciliation logic to interact with asynchronously (API Server/Resources/etcd/Controllers)
     * Technical Independence from traditional VMs and Operating Systems (Containers)

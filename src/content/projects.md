@@ -3,6 +3,10 @@ slug = "projects"
 title = "Projects"
 
 +++
+### [active] [**shipcaps**](https://github.com/redradrat/shipcaps)
+
+A meta-layer for kubernetes application packaging. Designed to provide kubernetes engineers with a means to describe existing packages and make them easily usable via a single API. Currently under development... can be found on [GitHub](https://github.com/redradrat/shipcaps).
+
 ### [active] [**aws-iam-operator**](https://github.com/redradrat/aws-iam-operator)
 
 A kubernetes-native controller to control AWS Identity and Access Management. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces. Currently under development... can be found on [GitHub](https://github.com/redradrat/aws-iam-operator).
