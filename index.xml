@@ -5,11 +5,7 @@
     <link>https://redradrat.xyz/</link>
     <description>Recent content on at redradrat&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://redradrat.xyz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://redradrat.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://redradrat.xyz/about/</link>
@@ -37,8 +33,9 @@ For other requests, I&amp;rsquo;m available on Keybase: https://keybase.io/redra
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://redradrat.xyz/projects/</guid>
-      <description>[active] shipcaps A meta-layer for kubernetes application packaging. Designed to provide kubernetes engineers with a means to describe existing packages and make them easily usable via a single API. Currently under development&amp;hellip; can be found on GitHub.
-[active] aws-iam-operator A kubernetes-native controller to control AWS Identity and Access Management. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces. Currently under development&amp;hellip; can be found on GitHub.</description>
+      <description>[active] aws-iam-operator A kubernetes-native controller to control AWS Identity and Access Management. Provides CustomResources to reconcile Policies, Users, Groups and Roles. Developed, to help with AWS abstraction via kubernetes-native interfaces.
+[active] kable A tool to manage kubernetes artifacts. It manages so-called &amp;ldquo;concepts&amp;rdquo; (blueprints), and renders them into various deployable formats. (YAML Manifests, GitOps controller instructions, helm charts, etc.)
+[active] cloud-objects An abstraction layer of all cloud services that I&amp;rsquo;m working on.</description>
     </item>
     
   </channel>
